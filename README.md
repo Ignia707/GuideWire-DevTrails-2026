@@ -4,6 +4,12 @@
 
 ---
 
+## Demo Video
+
+*https://youtu.be/CZna-Sabm_A*
+
+---
+
 ## The Problem
 
 Chennai's hyperlocal delivery workers — serving Zomato, Swiggy, Zepto, Amazon, Dunzo, and others — are the invisible backbone of the city's daily life. Yet they bear the full financial impact of events entirely outside their control: cyclones, flash floods, extreme heat, political bandhs, and sudden zone lockdowns.
@@ -319,9 +325,5 @@ Members:
 - Ramana KS
 - Prem Danasekaran
 - Nikhilesh H
-
-## Demo Video
-
-*[2-minute strategy + prototype walkthrough video link to be added]*
 
 ---
